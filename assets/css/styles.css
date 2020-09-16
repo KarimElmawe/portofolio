@@ -19,3 +19,9 @@
     border-radius: 10px;
     -webkit-box-shadow: inset 0 0 4px #3bdb9d; 
 }
+
+@media (max-width:767px) {
+    .marg {
+        margin: 30px;
+    }
+}
